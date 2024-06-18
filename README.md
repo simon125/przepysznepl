@@ -2,6 +2,8 @@
 
 Apka która jest tematem przewodnim project-based-tutorialu:
 
+podgląd aplikacji: http://przepysznepl.surge.sh/recipes
+
 # Co znajdziesz w tutorialu:
 
 - setup projektu reactowego przy użyiu **Vite**
