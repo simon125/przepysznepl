@@ -1,8 +1,17 @@
-# React + Vite
+# Przepyszne.pl
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Apka która jest tematem przewodnim project-based-tutorialu:
 
-Currently, two official plugins are available:
+# Co znajdziesz w tutorialu:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- setup projektu reactowego przy użyiu **Vite**
+- instalacja zewnętrznych paczek/pakietów: biblioteki CSSowej oraz react-router-dom
+- przygotowanie codebasu - usuwanie zbędnych plików
+- tworzenie aplikacji SPA składającej się ze statycznych oraz dynamicznych routów
+- komunikacja HTTP (zapytania typu GET) przy użyciu funckji fetch
+- użycie podstawowych hooków reactowych tj. useState, useEffect
+
+# Linki do tutorialów:
+
+- [część 1] https://www.youtube.com/watch?v=spzYUyK49hg
+- [część 2] https://www.youtube.com/watch?v=L68UKPrZlBs
